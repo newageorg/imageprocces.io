@@ -3,6 +3,7 @@
 import UIKit
 
 
-// Process the image!
+let image = UIImage(named: "rostro") // Process the image!
 let RGBA = image.toRGBA() //Convertir a RGBA
+let leto: Int = 0
 let a 
